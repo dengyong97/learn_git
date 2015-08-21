@@ -2,11 +2,4 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-<<<<<<< HEAD
 dengyong97
-=======
-dengyong97   
-dengyong98
-dengyong99
-212
->>>>>>> 3e9039f449557d224d2bcdfb709da8a214c23bd7
